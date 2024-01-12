@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+*body{
+  font-family: 'Lato', sans-serif;
+}
+
+.background-image {
+  background-image: url('home-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.center {
+   text-align: center;
+  }
+  .text-background {
+    margin-top: 30px;
+    color: white;
+  }
+  .hr-c{
+      display: block;
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+      margin-left: auto;
+      margin-right: auto;
+      border-style: inset;
+      border-width: 1px;
+    
+  }
+  .img-margin{
+    margin-top: 10%;
+  }
+  .footer-center{
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+
+  }
